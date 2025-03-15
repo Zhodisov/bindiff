@@ -16,6 +16,9 @@
 
 
 
+
+
+
 ![BinDiff Logo](docs/images/bindiff-lockup-vertical.png)
 
 Copyright 2011-2024 Google LLC.
